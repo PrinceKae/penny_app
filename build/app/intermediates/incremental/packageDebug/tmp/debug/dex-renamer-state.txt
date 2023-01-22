@@ -1,0 +1,4 @@
+#Sun Jan 22 00:55:04 UTC 2023
+base.0=C\:\\Users\\Prince Ibezim\\Development\\projects\\penny_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
